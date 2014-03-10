@@ -1,4 +1,5 @@
 /**
+ * gerardorf theme for reveal.js based on
  * Beige theme for reveal.js.
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
@@ -25,12 +26,14 @@
 	font-style: normal;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800italic,800,700italic,700,600italic,600,300italic,300,400italic);
 
 
 // Override theme settings (see ../template/settings.scss)
 $mainColor: #333;
-$headingColor: #333;
+$headingFont: 'Open Sans', sans-serif;
+$headingWeight: bold;
+$headingColor: #963334;
 $headingTextShadow: none;
 $backgroundColor: #efefef;
 $linkColor: #8b743d;

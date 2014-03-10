@@ -1,9 +1,10 @@
 /**
+ * gerardorf theme for reveal.js based on
  * Beige theme for reveal.js.
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800italic,800,700italic,700,600italic,600,300italic,300,400italic);
 @font-face {
   font-family: 'League Gothic';
   src: url("../../lib/font/league_gothic-webfont.eot");
@@ -39,9 +40,10 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #333333;
-  font-family: "League Gothic", Impact, sans-serif;
+  color: #963334;
+  font-family: "Open Sans", sans-serif;
   line-height: 0.9em;
+  font-weight: bold;
   letter-spacing: 0.02em;
   text-transform: uppercase;
   text-shadow: none; }
