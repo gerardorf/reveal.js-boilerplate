@@ -40,7 +40,6 @@ module.exports = function(grunt) {
 		sass: {
 			main: {
 				files: {
-					'css/theme/default.css': 'css/theme/source/default.scss',
 					'css/theme/gerardorf.css': 'css/theme/source/gerardorf.scss'
 				}
 			}
