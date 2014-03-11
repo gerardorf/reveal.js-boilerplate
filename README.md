@@ -1,5 +1,5 @@
 reveal.js-boilerplate
 =====================
 
-my personal base version of reveal.js based on version 2.6.1
+my personal base version of reveal.js 2.6.1
 
